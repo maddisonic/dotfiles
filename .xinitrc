@@ -8,6 +8,7 @@
 #. /etc/X11/Xsession
 
 xrandr --output HDMI1 --mode 1920x1080 --right-of VGA1
+xrdb ~/.Xresources
 compton -b
 feh --bg-center Pictures/progenitus.jpg
 unclutter -idle 3 &
