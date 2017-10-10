@@ -14,3 +14,17 @@ colorscheme solarized
 set tabstop=4
 set shiftwidth=4
 set noexpandtab
+
+set number
+set showcmd
+"set cursorline "highlight current line
+filetype indent on "load filetype-specific indent files
+set wildmenu "visual autocomplete for command menu
+set lazyredraw "redraw only when needed
+set showmatch "highlight matching brackets
+
+
+"search stuff
+set incsearch "search as characters are entered
+set hlsearch "highlight matches
+

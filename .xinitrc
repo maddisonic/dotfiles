@@ -9,7 +9,7 @@
 
 #xrandr --output HDMI1 --mode 1920x1080 --right-of VGA1
 compton -b
-feh --bg-center Pictures/progenitus.jpg
+feh --bg-center Pictures/Shodan.jpg
 unclutter -idle 1 &
 urxvtd -q -f -o
 xrdb ~/.Xresources

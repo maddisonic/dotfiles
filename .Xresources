@@ -1,3 +1,4 @@
+URxvt.font:	xft:DejaVuSansMono:size=10
 URxvt.depth:		32
 URxvt.scrollBar:	false
 
